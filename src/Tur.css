@@ -1,0 +1,14 @@
+.card{
+    width: 18rem;
+    background-color: white;
+}
+.cevre{
+    background-color: rgb(237, 244, 246);
+}
+
+.h5-etiketi{
+    text-align: center;
+}
+.card-img-top{
+    width: 100%;
+}
